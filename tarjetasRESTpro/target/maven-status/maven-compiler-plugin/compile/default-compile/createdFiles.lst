@@ -1,0 +1,17 @@
+id\test\ApiRest\model\Datacredito.class
+id\test\ApiRest\service\SiebelServicio.class
+id\test\ApiRest\controller\ClienteControlador.class
+id\test\ApiRest\model\SolicitudProducto.class
+id\test\ApiRest\repository\DatacreditoRepositorio.class
+id\test\ApiRest\controller\SolicitudProductoControlador.class
+id\test\ApiRest\model\Siebel.class
+id\test\ApiRest\service\ClienteServicio.class
+id\test\ApiRest\ApiRestTarjetas.class
+id\test\ApiRest\model\Cliente.class
+id\test\ApiRest\repository\ClienteRepositorio.class
+id\test\ApiRest\service\DatacreditoServicio.class
+id\test\ApiRest\controller\DatacreditoControlador.class
+id\test\ApiRest\controller\SiebelControlador.class
+id\test\ApiRest\repository\SolicitudProductoRepositorio.class
+id\test\ApiRest\repository\SiebelRepositorio.class
+id\test\ApiRest\service\SolicitudProductoServicio.class

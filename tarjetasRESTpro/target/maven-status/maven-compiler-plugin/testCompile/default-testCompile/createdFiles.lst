@@ -1,0 +1,9 @@
+id\test\ApiRest\service\DatacreditoServicioTest.class
+id\test\ApiRest\controller\ClienteControladorTest.class
+id\test\ApiRest\ApiRestApplicationTests.class
+id\test\ApiRest\controller\DatacreditoControladorTest.class
+id\test\ApiRest\service\ClienteServicioTest.class
+id\test\ApiRest\controller\SolicitudProductoControladorTest.class
+id\test\ApiRest\service\SolicitudProductoServicioTest.class
+id\test\ApiRest\service\SiebelServicioTest.class
+id\test\ApiRest\controller\SiebelControladorTest.class
